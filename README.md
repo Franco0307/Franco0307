@@ -2,7 +2,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/Franco0307">Frank</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Bunny" src="https://raw.githubusercontent.com/Franco0307/Franco0307/main/images/cheer_bunny1_1029.gif"/>
 
 I am a **Financial Mathematics graduate** from **Imperial College London**, with a strong passion for software development. Coming from a quantitative background, I've successfully transitioned into backend development through self-learning. I have hands-on experience with Spring ecosystem (Spring Boot, Spring Cloud), message queues (Kafka), big data processing (Hadoop), and database management (MySQL).
 
@@ -35,8 +35,6 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)&nbsp;
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
 ###### Data & Messaging:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
