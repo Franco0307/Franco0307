@@ -76,3 +76,11 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 </tr>
 </table>
 </p>
+br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Franco0307/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
