@@ -6,6 +6,7 @@
 
 I am a **Financial Mathematics graduate** from **Imperial College London**, with a strong passion for software development. Coming from a quantitative background, I've successfully transitioned into backend development through self-learning. I have hands-on experience with Spring ecosystem (Spring Boot, Spring Cloud), message queues (Kafka), big data processing (Hadoop), and database management (MySQL).
 
+- 🎓 BSc in Pure Mathematics from University College London (UCL)
 - 🎓 MSc in Financial Mathematics from Imperial College London
 - 💻 Self-taught Backend Developer with focus on Java ecosystem
 - 🚀 Currently seeking opportunities in backend development
@@ -47,7 +48,6 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
 ###### DevOps & Tools:
@@ -76,14 +76,3 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 </tr>
 </table>
 </p>
-
-<!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Franco0307/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!-- Visitor Counter -->
