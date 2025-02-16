@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/frank-yang-aa46732a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank yang" height="30" width="40" /></a>
-<a href="https://leetcode.com/ellaskitchen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ellaskitchen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/frank-yang-2b6613292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank yang" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user8130tA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8130tA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
