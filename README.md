@@ -36,6 +36,8 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)&nbsp;
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
+<img align="right" width=310px alt="Cake Bunny" src="https://raw.githubusercontent.com/Franco0307/Franco0307/main/images/cake_bunny.gif"/>
+
 ###### Data & Messaging:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
@@ -43,9 +45,10 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 ###### Frontend Development:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
 ###### DevOps & Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -74,6 +77,15 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 </table>
 </p>
 
+<!-- Visitor Counter -->
+<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Franco0307/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
