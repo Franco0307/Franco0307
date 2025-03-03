@@ -4,14 +4,14 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 <img align="right" width=200px alt="Bunny" src="https://raw.githubusercontent.com/Franco0307/Franco0307/main/images/cheer_bunny1_1029.gif"/>
 
-I am a **Financial Mathematics graduate** from **Imperial College London**, with a strong passion for software development. Coming from a quantitative background, I've successfully transitioned into backend development through self-learning. I have hands-on experience with Spring ecosystem (Spring Boot, Spring Cloud), message queues (Kafka), big data processing (Hadoop), and database management (MySQL).
+Mathematics graduate inspired by Computer Science electives to pursue software engineering. Strong in Java and Spring ecosystem, with solid understanding of algorithms and data structures. Developing frontend skills in JavaScript, TypeScript, and React. Seeking a software engineering position to leverage my quantitative background, algorithmic thinking, and programming expertise in collaborative team environments.
 
 - 🎓 BSc in Pure Mathematics from University College London (UCL)
-- 🎓 MSc in Financial Mathematics from Imperial College London
-- 💻 Self-taught Backend Developer with focus on Java ecosystem
-- 🚀 Currently seeking opportunities in backend development
+- 🎓 MSc in Quantitative Mathematics from Imperial College London
+- 💻 Full-stack Developer inspired by university Computer Science electives
+- 🏢 Completed 2 relevant internships in software development
 - 🌱 Always eager to learn new technologies and solve complex problems
-- 💡 Combining financial domain knowledge with technical skills
+- 💡 Combining quantitative domain knowledge with technical skills
 
 <br>
 <!-- Profile Trophies -->
@@ -48,7 +48,10 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ###### DevOps & Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -56,6 +59,7 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ### My Projects
+- 🏢 [Property Management System](https://main.d28ax38pzxxwgi.amplifyapp.com) - A comprehensive property management platform
 - 🎮 [Tetris Game](https://franco0307.github.io/TETRIS) - A classic Tetris game built with JavaScript
 
 <br>
@@ -76,7 +80,7 @@ I am a **Financial Mathematics graduate** from **Imperial College London**, with
 </tr>
 </table>
 </p>
-br>
+<br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Franco0307/count.svg">
