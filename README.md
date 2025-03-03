@@ -7,7 +7,7 @@
 Mathematics graduate inspired by Computer Science electives to pursue software engineering. Strong in Java and Spring ecosystem, with solid understanding of algorithms and data structures. Developing frontend skills in JavaScript, TypeScript, and React. Seeking a software engineering position to leverage my quantitative background, algorithmic thinking, and programming expertise in collaborative team environments.
 
 - 🎓 BSc in Pure Mathematics from University College London (UCL)
-- 🎓 MSc in Quantitative Mathematics from Imperial College London
+- 🎓 MSc in Financial Mathematics from Imperial College London
 - 💻 Full-stack Developer inspired by university Computer Science electives
 - 🏢 Completed 2 relevant internships in software development
 - 🌱 Always eager to learn new technologies and solve complex problems
