@@ -4,7 +4,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 <img align="right" width=200px alt="Bunny" src="https://raw.githubusercontent.com/Franco0307/Franco0307/main/images/cheer_bunny1_1029.gif"/>
 
-Mathematics graduate inspired by Computer Science electives to pursue software engineering. Strong in Java and Spring ecosystem, with solid understanding of algorithms and data structures. Developing frontend skills in JavaScript, TypeScript, and React. Seeking a software engineering position to leverage my quantitative background, algorithmic thinking, and programming expertise in collaborative team environments.
+Strong in Java and Spring ecosystem, with solid understanding of algorithms and data structures. Developing frontend skills in JavaScript, TypeScript, and React. Seeking a software engineering position to leverage my quantitative background, algorithmic thinking, and programming expertise in collaborative team environments.
 
 - 🎓 BSc in Pure Mathematics from University College London (UCL)
 - 🎓 MSc in Financial Mathematics from Imperial College London
