@@ -4,12 +4,15 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 <img align="right" width=200px alt="Bunny" src="https://raw.githubusercontent.com/Franco0307/Franco0307/main/images/cheer_bunny1_1029.gif"/>
 
-Strong in Java and Spring ecosystem, with solid understanding of algorithms and data structures. Developing frontend skills in JavaScript, TypeScript, and React. Seeking a software engineering position to leverage my quantitative background, algorithmic thinking, and programming expertise in collaborative team environments.
+Experienced Java developer with Spring ecosystem expertise and strong foundation in algorithms and data structures. Blending rigorous quantitative training with practical software engineering to deliver optimized solutions. Expanding frontend capabilities with JavaScript, TypeScript and React. Award-winning quantitative analyst with 3rd place in WorldQuant Brain Alphathon 2024, Kaggle Gold Medal (top 15 of 4358 teams) in LLM text detection, and Kaggle Silver Medal in competition hosted by Optiver. 
 
 - 🎓 BSc in Pure Mathematics from University College London (UCL)
 - 🎓 MSc in Financial Mathematics from Imperial College London
 - 💻 Full-stack Developer inspired by university Computer Science electives
 - 🏢 Completed 2 relevant internships in software development
+- 🏆 3rd place in WorldQuant Brain Alphathon 2023
+- 🥇 Kaggle Gold Medal (ranked 15th of 4358 teams) in AI text detection
+- 🥈 Kaggle Silver Medal (ranked 99th of 4436 teams) in financial trading competition
 - 🌱 Always eager to learn new technologies and solve complex problems
 - 💡 Combining quantitative domain knowledge with technical skills
 
