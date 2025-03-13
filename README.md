@@ -11,7 +11,7 @@ Experienced Java developer with Spring ecosystem expertise and strong foundation
 - 💻 Full-stack Developer inspired by university Computer Science electives
 - 🏢 Completed 2 relevant internships in software development
 - 🏆 3rd place in WorldQuant Brain Alphathon 2023
-- 🥇 Kaggle Gold Medal (ranked 15th of 4358 teams) in AI text detection
+- 🥇 Kaggle Gold Medal (ranked 15th of 4358 teams) in LLM AI text detection
 - 🥈 Kaggle Silver Medal (ranked 99th of 4436 teams) in financial trading competition
 - 🌱 Always eager to learn new technologies and solve complex problems
 - 💡 Combining quantitative domain knowledge with technical skills
