@@ -64,6 +64,7 @@ Experienced Java developer with Spring ecosystem expertise and strong foundation
 ### My Projects
 - 🏢 [Property Management System](https://main.d28ax38pzxxwgi.amplifyapp.com) - A comprehensive property management platform
 - 🎮 [Tetris Game](https://franco0307.github.io/TETRIS) - A classic Tetris game built with JavaScript
+- takeaway platform project
 
 <br>
 <!-- Github Stats -->
