@@ -62,7 +62,7 @@ Experienced Java developer with Spring ecosystem expertise and strong foundation
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ### My Projects
-- 🏢 [Property Management System]([https://main.d28ax38pzxxwgi.amplifyapp.com](https://franco0307.github.io/smart-campus-management-system/)) - A comprehensive property management platform
+- 🏢 [Property Management System]([https://main.d28ax38pzxxwgi.amplifyapp.com](https://franco0307.github.io/smart-campus-management-system/) - A comprehensive property management platform
 - 🎮 [Tetris Game](https://franco0307.github.io/TETRIS) - A classic Tetris game built with JavaScript
 - takeaway platform project
 
